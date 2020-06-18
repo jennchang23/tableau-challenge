@@ -35,4 +35,4 @@ Link to Public Tableau Workbook: https://public.tableau.com/profile/jennie.chang
         - Those who are renting have stayed within their neighborhoods as there were shelter at home mandates enforced by local officials
 
 
-<img src="screenshots/dashboard_3.jpg" width = 500px height = 250px>jpg)
+<img src="screenshots/dashboard_3.jpg" width = 500px height = 250px>
