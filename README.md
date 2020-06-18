@@ -24,7 +24,7 @@ Link to Public Tableau Workbook: https://public.tableau.com/profile/jennie.chang
         - On Weekend, most riders are staying within Jersey city as they travel to/from activities close to home
 
 
-<img src="screenshots/dashboard_2.jpg" width = 500px height = 250px>
+<img src=screenshots/dashboard_2.jpg width = 500px height = 250px>
 
 
 ## DASHBOARD 3 - INSIGHTS
